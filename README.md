@@ -4,7 +4,7 @@ Esse repositório tem o intuito de passar um resumo transparente dos candidatos 
 
 O principal objetivo é deixar os eleitores bem informados de forma sucinta e clara.
 
-Ele é facilmente acessível atraves do site [voteciente.github.io].
+Ele é facilmente acessível atraves do site [voteciente.github.io](https://voteciente.github.io).
 
 Como qualquer trabalho, aqui também está sugeitos a erros e a viés dos colaboradores vonluntários, por isso, fique a vontade para sugerir mudanças, acrescentar fontes, melhorar o visual, etc.
 
