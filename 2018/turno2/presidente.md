@@ -15,6 +15,12 @@
 
 # Honestidade
 
+ele mesmo passar fakenews
+
+# Estratégia de campanha
+
+https://www.vox.com/platform/amp/2018/10/26/18022864/brazil-presidential-election-bolsonaro-haddad
+
 | Candidato | Haddad | Bolsonaro |
 | ---: | :---: | :---: |
 | Vice
