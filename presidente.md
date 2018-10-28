@@ -1,9 +1,4 @@
----
-title: Vote Ciente
-layout: default
----
-
-# Para você está em dúvida, ou se não pretende votar
+# Para você que está em dúvida, ou se não pretende votar
 
 Se abster de votar, votar em branco, ou votar em **nulo** é uma **carta branca** para eleição de **qualquer** um. Então a não ser que você concorde que qualquer candidato seja bom (ou que eles são igualmente maus), não faça isso.
 
