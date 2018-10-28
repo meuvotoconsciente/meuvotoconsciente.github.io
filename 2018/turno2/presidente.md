@@ -3,17 +3,15 @@ title: Vote Ciente
 layout: default
 ---
 
-# Saiba em quem está votando, vote consciente
-
-Essa página tem o intuito de passar um resumo transparente dos candidatos de forma sucinta e clara. Todos os links apontam para fontes.
-
 # Para você está em dúvida, ou se não pretende votar
 
 Se abster de votar, votar em branco, ou votar em **nulo** é uma **carta branca** para eleição de **qualquer** um. Então a não ser que você concorde que qualquer candidato seja bom (ou que eles são igualmente maus), não faça isso.
 
 E se você está sendo coagido (diretamente, ou por pressão social), lembre-se de que **o voto é secreto**.
 
-# Rápida comparação de nossos candidatos
+# Saiba em quem está votando, vote consciente
+
+Essa página tem o intuito de passar um resumo transparente dos candidatos de forma sucinta e clara. Todos os links apontam para fontes.
 
 ## Competência
 
