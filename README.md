@@ -9,3 +9,5 @@ Ele é facilmente acessível atraves do site [voteciente.github.io](https://vote
 Como qualquer trabalho, aqui também está sugeitos a erros e a viés dos colaboradores vonluntários, por isso, fique a vontade para sugerir mudanças, acrescentar fontes, melhorar o visual, etc.
 
 Infelizmente GitHub não se disponibiliza em português, mas você pode encontrar vários tutoriais sobre "Como fazer um Pull Request" e contribuir. É possível fazê-lo totalmente atravez do browser (sem linha comando ou qualquer coisa complicada). Fique a vontade de fazer um Pull Request adicionando links de toturiais aqui ;)
+
+A forma mais fácil de apontar um erro ou sugeri uma mudança é [apontando um novo problem](https://github.com/voteciente/voteciente.github.io/issues/new).
