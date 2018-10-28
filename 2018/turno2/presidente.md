@@ -5,12 +5,12 @@ layout: default
 
 # Saiba em quem está votando, vote consciente
 
-Esse site está hospedado no GitHub, uma ferramente de colaboração livre. Você pode contribuir ou apontar errors, veja mais em [github.com/voteciente](https://github.com/voteciente).
 Essa página tem o intuito de passar um resumo transparente dos candidatos de forma sucinta e clara. Todos os links apontam para fontes.
 
 # Para você está em dúvida, ou se não pretende votar
 
 Se abster de votar, votar em branco, ou votar em **nulo** é uma **carta branca** para eleição de **qualquer** um. Então a não ser que você concorde que qualquer candidato seja bom (ou que eles são igualmente maus), não faça isso.
+
 E se você está sendo coagido (diretamente, ou por pressão social), lembre-se de que **o voto é secreto**.
 
 # Rápida comparação de nossos candidatos
@@ -48,6 +48,7 @@ E se você está sendo coagido (diretamente, ou por pressão social), lembre-se 
 # Observações
 
 Os candidatos não precisam se responsabilizar pela ação de seus eleitores, mas é importante notar um certo padrão quem vem acontecendo nessas eleições.
+
 * Essas eleições ficaram conhecidas com a difusão de notícias falsa, que em sua grande maioria atacava Haddad, o PT ou quem falasse mal de Bolsonaro (falta fontes).
   * [Bots no Whatsapp](https://www1.folha.uol.com.br/poder/2018/10/estudo-aponta-para-automacao-no-envio-de-mensagens-e-orquestracao-entre-grupos-de-whatsapp-pro-bolsonaro.shtml)
   * [No Twitter](https://jornalggn.com.br/noticia/folha-publica-materias-com-bolovo-e-bolso-e-expoe-os-robos-de-bolsonaro-na-internet)
