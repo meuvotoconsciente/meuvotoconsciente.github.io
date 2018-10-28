@@ -1,6 +1,6 @@
 {
   "dist": {
     "repo": "git@github.com:voteciente/voteciente.github.io.git#master",
-    "beforeStageCommand": "cat ../presidente.md > index.md"
+    "beforeStageCommand": "cat front.yml ../presidente.md  > index.md"
   }
 }
