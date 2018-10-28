@@ -2,11 +2,11 @@
 
 Se abster de votar, votar em branco, ou votar em **nulo** é uma **carta branca** para eleição de **qualquer** um. Então a não ser que você concorde que qualquer candidato seja bom (ou que eles são igualmente maus), não faça isso.
 
-E se você está sendo coagido (diretamente, ou por pressão social), lembre-se de que **o voto é secreto**.
+E se você está sendo coagido (diretamente, ou por pressão social), lembre-se de que **o voto é secreto** e **coação eleitoral é crime**.
 
 # Por que acho que meu voto é consciente
 
-Um resumo dos candidatos de forma sucinta e clara. Todos os links apontam para fontes.
+Abaixo, se encontra um rápido resumo dos candidatos. Todos os links apontam para fontes.
 
 ## Competência
 
@@ -28,11 +28,16 @@ Um resumo dos candidatos de forma sucinta e clara. Todos os links apontam para f
 
 * O **próprio Bolsonaro** divugou fakenews contra seus adversários.
   * [A associação do Kit Gay ao PT](https://www.huffpostbrasil.com/2018/10/24/kit-gay-a-verdade-sobre-o-programa-alvo-de-criticas-e-fake-news-de-bolsonaro_a_23565210/).
-* [Ministro do TSE determina retirada de fake news contra candidato Fernando Haddad](http://www.tse.jus.br/imprensa/noticias-tse/2018/Outubro/ministro-do-tse-determina-retirada-de-fake-news-contra-candidato-fernando-haddad).
+
+# Respeito
+
+* **Bolsonaro** foi condenado a:
+  * [Indenização de R$ 50 mil por danos morais coletivos aos quilombolas e à comunidade negra em geral](https://www.conjur.com.br/2017-out-03/bolsonaro-condenado-pagar-50-mil-ofensas-quilombolas). E ainda teve a audácia de alegar que estava protegido pela imunidade parlamentar.
+  * [Indenização de R$ 10 mil a deputada Maria do Rosário por danos morais](http://www.stj.jus.br/sites/STJ/default/pt_BR/Comunica%C3%A7%C3%A3o/noticias/Not%C3%ADcias/Jair-Bolsonaro-ter%C3%A1-de-indenizar-deputada-Maria-do-Ros%C3%A1rio-por-danos-morais)
 
 ## Suporte à democracia
 
-* Steven Levitsky, em [uma paletra para a Fundação FHC](https://www.youtube.com/watch?v=R8QL1fVBjI8), mostra como **Bolsonaro** é uma ameaça á democracia no Brasil, e agora nós corremos os mesmo riscos que vários outros países da America Latina.
+* Steven Levitsky, em [uma paletra para a Fundação FHC](https://www.youtube.com/watch?v=R8QL1fVBjI8), mostra como **Bolsonaro** é uma ameaça á democracia no Brasil, e agora nós corremos os mesmo riscos de países como a Venezuela.
 
 **Todos nós temos o dever de manter o que conquistamos, ou o que nos foi passado, de valioso: a democracia é uma dessa coisas.**
 
@@ -40,9 +45,13 @@ Um resumo dos candidatos de forma sucinta e clara. Todos os links apontam para f
 
 # Observações
 
-Os candidatos não precisam se responsabilizar pela ação de seus eleitores, mas é importante notar um certo padrão quem vem acontecendo nessas eleições.
+Apeasr dos candidatos não se responsabilizarem pela ação de seus eleitores, é importante notar um certo padrão quem vem acontecendo nessas eleições.
 
-* Essas eleições ficaram conhecidas com a difusão de notícias falsa, que em sua grande maioria atacava Haddad, o PT ou quem falasse mal de Bolsonaro (falta fontes).
+* Essas eleições ficaram conhecidas com a difusão de notícias falsa, que em sua grande maioria atacava Haddad, o PT ou quem falasse mal de Bolsonaro.
   * [Bots no Whatsapp](https://www1.folha.uol.com.br/poder/2018/10/estudo-aponta-para-automacao-no-envio-de-mensagens-e-orquestracao-entre-grupos-de-whatsapp-pro-bolsonaro.shtml)
   * [No Twitter](https://jornalggn.com.br/noticia/folha-publica-materias-com-bolovo-e-bolso-e-expoe-os-robos-de-bolsonaro-na-internet)
-* [Um dos apoiadores de Boslonaro é processado por coesão](https://exame.abril.com.br/negocios/mpt-processa-dono-da-havan-por-coagir-funcionarios-a-votar-em-bolsonaro/).
+  * [Ministro do TSE determina retirada de fake news contra candidato Fernando Haddad](http://www.tse.jus.br/imprensa/noticias-tse/2018/Outubro/ministro-do-tse-determina-retirada-de-fake-news-contra-candidato-fernando-haddad).
+* [Mestre de capoeira é morto com 12 facadas desferidas por Bolsonarista após discussão política](http://www.justificando.com/2018/10/10/mestre-de-capoeira-e-morto-com-12-facadas-desferidas-por-bolsonarista-apos-discussao-politica/).
+* [Um dos apoiadores de Boslonaro é processado por coeção](https://exame.abril.com.br/negocios/mpt-processa-dono-da-havan-por-coagir-funcionarios-a-votar-em-bolsonaro/).
+
+E se você quiser ouvir esses absurdos da boca dele mesmo: [Roda Viva | Jair Bolsonaro | 30/07/2018](https://www.youtube.com/watch?v=lDL59dkeTi0)
