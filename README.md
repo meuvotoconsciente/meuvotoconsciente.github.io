@@ -45,7 +45,7 @@ Abaixo, se encontra um rápido resumo dos candidatos. Todos os links apontam par
 
 # Observações
 
-Apeasr dos candidatos não se responsabilizarem pela ação de seus eleitores, é importante notar um certo padrão quem vem acontecendo nessas eleições.
+Apesar dos candidatos não se responsabilizarem pela ação de seus eleitores, é importante notar um certo padrão quem vem acontecendo nessas eleições:
 
 * Essas eleições ficaram conhecidas com a difusão de notícias falsa, que em sua grande maioria atacava Haddad, o PT ou quem falasse mal de Bolsonaro.
   * [Bots no Whatsapp](https://www1.folha.uol.com.br/poder/2018/10/estudo-aponta-para-automacao-no-envio-de-mensagens-e-orquestracao-entre-grupos-de-whatsapp-pro-bolsonaro.shtml)
@@ -54,4 +54,4 @@ Apeasr dos candidatos não se responsabilizarem pela ação de seus eleitores, �
 * [Mestre de capoeira é morto com 12 facadas desferidas por Bolsonarista após discussão política](http://www.justificando.com/2018/10/10/mestre-de-capoeira-e-morto-com-12-facadas-desferidas-por-bolsonarista-apos-discussao-politica/).
 * [Um dos apoiadores de Boslonaro é processado por coeção](https://exame.abril.com.br/negocios/mpt-processa-dono-da-havan-por-coagir-funcionarios-a-votar-em-bolsonaro/).
 
-E se você quiser ouvir esses absurdos da boca dele mesmo: [Roda Viva | Jair Bolsonaro | 30/07/2018](https://www.youtube.com/watch?v=lDL59dkeTi0)
+E se você quiser ouvir esses absurdos da boca dele mesmo: [Jair Bolsonaro no Roda Viva](https://www.youtube.com/watch?v=lDL59dkeTi0)
