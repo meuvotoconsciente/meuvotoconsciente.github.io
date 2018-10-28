@@ -1,6 +1,6 @@
 {
   "dist": {
     "repo": "git@github.com:voteciente/voteciente.github.io.git#master",
-    "beforeStageCommand": "cat 2018/turno2/presidente.md > index.md"
+    "beforeStageCommand": "cat ../2018/turno2/presidente.md > index.md"
   }
 }
