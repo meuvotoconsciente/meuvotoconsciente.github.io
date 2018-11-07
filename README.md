@@ -37,7 +37,7 @@ Abaixo, se encontra um rápido resumo dos candidatos. Todos os links apontam par
 
 ## Suporte à democracia
 
-* Steven Levitsky, em [uma paletra para a Fundação FHC](https://www.youtube.com/watch?v=R8QL1fVBjI8), mostra como **Bolsonaro** é uma ameaça á democracia no Brasil, e agora nós corremos os mesmo riscos de países como a Venezuela.
+* Steven Levitsky, em [uma paletra para a Fundação FHC](https://www.youtube.com/watch?v=R8QL1fVBjI8), mostra como **Bolsonaro** é uma ameaça á democracia no Brasil.
 
 **Todos nós temos o dever de manter o que conquistamos, ou o que nos foi passado, de valioso: a democracia é uma dessa coisas.**
 
